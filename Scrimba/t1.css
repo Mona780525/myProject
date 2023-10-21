@@ -1,5 +1,5 @@
 body {
-  background-image: url(./Pictures/Siuri_railway_station.jpg);
+  background-image: url("./Pictures/Siuri_railway_station.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
